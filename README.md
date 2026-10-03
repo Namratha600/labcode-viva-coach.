@@ -19,7 +19,7 @@ A professor may ask:
 - What happens if the input changes?
 - What programming concept is involved?
 
-LabCode Fixer & Viva Coach is designed to help students prepare for these questions.
+LabCode Fixer & Viva Coach is designed to help students understand their errors and prepare for these questions.
 
 ## How It Works
 
